@@ -1,5 +1,6 @@
 ## Usage
 * Use python version <= 3.8
+* Clone the repo
 
 ```
 git clone https://github.com/ms166/Bangla-NER
