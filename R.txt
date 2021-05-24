@@ -1,6 +1,0 @@
-gdown==3.6.4
-numpy==1.19.5
-sentencepiece==0.1.95
-sklearn==0.0
-transformers==4.6.1
-typing==3.7.4.3
